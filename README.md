@@ -4,7 +4,7 @@ Welcome to the Trans Advocacy and Complaint Collective's repository for all offi
 
 ## Table of Contents
 
-1. **[Activation Ladder](ActivationLadder.md)**  
+1. **[Activation Ladder](Activation%20Ladder.md)**  
    Outlines the steps and criteria required for members to ascend through the various levels of involvement within the collective.
 
 2. **[Code of Conduct](Code%20of%20Conduct.md)**  
