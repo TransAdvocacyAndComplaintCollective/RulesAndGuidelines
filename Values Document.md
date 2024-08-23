@@ -53,7 +53,3 @@ The Trans Advocacy and Complaint Collective UK (TACC UK) is a community-driven o
 - **Continuous Growth**: We are committed to the ongoing growth and development of our collective and its members. We encourage learning, skill-building, and personal development to enhance our effectiveness as advocates and as a community.
 
 ---
-
-### **Mission Statement**
-
-The Trans Advocacy and Complaint Collective UK (TACC UK) is a unified and inclusive community dedicated to challenging transphobia and advocating for the rights and dignity of trans people across the United Kingdom. We aim to create a society where trans voices are heard, respected, and protected, working tirelessly to eliminate discrimination and ensure equal opportunities for all trans individuals. Through proactive advocacy, transparent processes, and collaborative efforts, we strive to make lasting, positive changes in the lives of trans people and the broader community.
